@@ -1,0 +1,982 @@
+[
+    {
+        "id": "0101",
+        "nombre": "Chachapoyas",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0102",
+        "nombre": "Bagua",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0103",
+        "nombre": "Bongará",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0104",
+        "nombre": "Condorcanqui",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0105",
+        "nombre": "Luya",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0106",
+        "nombre": "Rodríguez de Mendoza",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0107",
+        "nombre": "Utcubamba",
+        "id_departamento": "01"
+    },
+    {
+        "id": "0201",
+        "nombre": "Huaraz",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0202",
+        "nombre": "Aija",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0203",
+        "nombre": "Antonio Raymondi",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0204",
+        "nombre": "Asunción",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0205",
+        "nombre": "Bolognesi",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0206",
+        "nombre": "Carhuaz",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0207",
+        "nombre": "Carlos Fermín Fitzcarrald",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0208",
+        "nombre": "Casma",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0209",
+        "nombre": "Corongo",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0210",
+        "nombre": "Huari",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0211",
+        "nombre": "Huarmey",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0212",
+        "nombre": "Huaylas",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0213",
+        "nombre": "Mariscal Luzuriaga",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0214",
+        "nombre": "Ocros",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0215",
+        "nombre": "Pallasca",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0216",
+        "nombre": "Pomabamba",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0217",
+        "nombre": "Recuay",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0218",
+        "nombre": "Santa",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0219",
+        "nombre": "Sihuas",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0220",
+        "nombre": "Yungay",
+        "id_departamento": "02"
+    },
+    {
+        "id": "0301",
+        "nombre": "Abancay",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0302",
+        "nombre": "Andahuaylas",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0303",
+        "nombre": "Antabamba",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0304",
+        "nombre": "Aymaraes",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0305",
+        "nombre": "Cotabambas",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0306",
+        "nombre": "Chincheros",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0307",
+        "nombre": "Grau",
+        "id_departamento": "03"
+    },
+    {
+        "id": "0401",
+        "nombre": "Arequipa",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0402",
+        "nombre": "Camaná",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0403",
+        "nombre": "Caravelí",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0404",
+        "nombre": "Castilla",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0405",
+        "nombre": "Caylloma",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0406",
+        "nombre": "Condesuyos",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0407",
+        "nombre": "Islay",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0408",
+        "nombre": "La Uniòn",
+        "id_departamento": "04"
+    },
+    {
+        "id": "0501",
+        "nombre": "Huamanga",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0502",
+        "nombre": "Cangallo",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0503",
+        "nombre": "Huanca Sancos",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0504",
+        "nombre": "Huanta",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0505",
+        "nombre": "La Mar",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0506",
+        "nombre": "Lucanas",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0507",
+        "nombre": "Parinacochas",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0508",
+        "nombre": "Pàucar del Sara Sara",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0509",
+        "nombre": "Sucre",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0510",
+        "nombre": "Víctor Fajardo",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0511",
+        "nombre": "Vilcas Huamán",
+        "id_departamento": "05"
+    },
+    {
+        "id": "0601",
+        "nombre": "Cajamarca",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0602",
+        "nombre": "Cajabamba",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0603",
+        "nombre": "Celendín",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0604",
+        "nombre": "Chota",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0605",
+        "nombre": "Contumazá",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0606",
+        "nombre": "Cutervo",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0607",
+        "nombre": "Hualgayoc",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0608",
+        "nombre": "Jaén",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0609",
+        "nombre": "San Ignacio",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0610",
+        "nombre": "San Marcos",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0611",
+        "nombre": "San Miguel",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0612",
+        "nombre": "San Pablo",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0613",
+        "nombre": "Santa Cruz",
+        "id_departamento": "06"
+    },
+    {
+        "id": "0701",
+        "nombre": "Prov. Const. del Callao",
+        "id_departamento": "07"
+    },
+    {
+        "id": "0801",
+        "nombre": "Cusco",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0802",
+        "nombre": "Acomayo",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0803",
+        "nombre": "Anta",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0804",
+        "nombre": "Calca",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0805",
+        "nombre": "Canas",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0806",
+        "nombre": "Canchis",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0807",
+        "nombre": "Chumbivilcas",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0808",
+        "nombre": "Espinar",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0809",
+        "nombre": "La Convención",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0810",
+        "nombre": "Paruro",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0811",
+        "nombre": "Paucartambo",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0812",
+        "nombre": "Quispicanchi",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0813",
+        "nombre": "Urubamba",
+        "id_departamento": "08"
+    },
+    {
+        "id": "0901",
+        "nombre": "Huancavelica",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0902",
+        "nombre": "Acobamba",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0903",
+        "nombre": "Angaraes",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0904",
+        "nombre": "Castrovirreyna",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0905",
+        "nombre": "Churcampa",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0906",
+        "nombre": "Huaytará",
+        "id_departamento": "09"
+    },
+    {
+        "id": "0907",
+        "nombre": "Tayacaja",
+        "id_departamento": "09"
+    },
+    {
+        "id": "1001",
+        "nombre": "Huánuco",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1002",
+        "nombre": "Ambo",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1003",
+        "nombre": "Dos de Mayo",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1004",
+        "nombre": "Huacaybamba",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1005",
+        "nombre": "Huamalíes",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1006",
+        "nombre": "Leoncio Prado",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1007",
+        "nombre": "Marañón",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1008",
+        "nombre": "Pachitea",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1009",
+        "nombre": "Puerto Inca",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1010",
+        "nombre": "Lauricocha ",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1011",
+        "nombre": "Yarowilca ",
+        "id_departamento": "10"
+    },
+    {
+        "id": "1101",
+        "nombre": "Ica ",
+        "id_departamento": "11"
+    },
+    {
+        "id": "1102",
+        "nombre": "Chincha ",
+        "id_departamento": "11"
+    },
+    {
+        "id": "1103",
+        "nombre": "Nasca ",
+        "id_departamento": "11"
+    },
+    {
+        "id": "1104",
+        "nombre": "Palpa ",
+        "id_departamento": "11"
+    },
+    {
+        "id": "1105",
+        "nombre": "Pisco ",
+        "id_departamento": "11"
+    },
+    {
+        "id": "1201",
+        "nombre": "Huancayo ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1202",
+        "nombre": "Concepción ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1203",
+        "nombre": "Chanchamayo ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1204",
+        "nombre": "Jauja ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1205",
+        "nombre": "Junín ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1206",
+        "nombre": "Satipo ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1207",
+        "nombre": "Tarma ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1208",
+        "nombre": "Yauli ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1209",
+        "nombre": "Chupaca ",
+        "id_departamento": "12"
+    },
+    {
+        "id": "1301",
+        "nombre": "Trujillo ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1302",
+        "nombre": "Ascope ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1303",
+        "nombre": "Bolívar ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1304",
+        "nombre": "Chepén ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1305",
+        "nombre": "Julcán ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1306",
+        "nombre": "Otuzco ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1307",
+        "nombre": "Pacasmayo ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1308",
+        "nombre": "Pataz ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1309",
+        "nombre": "Sánchez Carrión ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1310",
+        "nombre": "Santiago de Chuco ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1311",
+        "nombre": "Gran Chimú ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1312",
+        "nombre": "Virú ",
+        "id_departamento": "13"
+    },
+    {
+        "id": "1401",
+        "nombre": "Chiclayo ",
+        "id_departamento": "14"
+    },
+    {
+        "id": "1402",
+        "nombre": "Ferreñafe ",
+        "id_departamento": "14"
+    },
+    {
+        "id": "1403",
+        "nombre": "Lambayeque ",
+        "id_departamento": "14"
+    },
+    {
+        "id": "1501",
+        "nombre": "Lima ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1502",
+        "nombre": "Barranca ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1503",
+        "nombre": "Cajatambo ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1504",
+        "nombre": "Canta ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1505",
+        "nombre": "Cañete ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1506",
+        "nombre": "Huaral ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1507",
+        "nombre": "Huarochirí ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1508",
+        "nombre": "Huaura ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1509",
+        "nombre": "Oyón ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1510",
+        "nombre": "Yauyos ",
+        "id_departamento": "15"
+    },
+    {
+        "id": "1601",
+        "nombre": "Maynas ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1602",
+        "nombre": "Alto Amazonas ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1603",
+        "nombre": "Loreto ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1604",
+        "nombre": "Mariscal Ramón Castilla ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1605",
+        "nombre": "Requena ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1606",
+        "nombre": "Ucayali ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1607",
+        "nombre": "Datem del Marañón ",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1608",
+        "nombre": "Putumayo",
+        "id_departamento": "16"
+    },
+    {
+        "id": "1701",
+        "nombre": "Tambopata ",
+        "id_departamento": "17"
+    },
+    {
+        "id": "1702",
+        "nombre": "Manu ",
+        "id_departamento": "17"
+    },
+    {
+        "id": "1703",
+        "nombre": "Tahuamanu ",
+        "id_departamento": "17"
+    },
+    {
+        "id": "1801",
+        "nombre": "Mariscal Nieto ",
+        "id_departamento": "18"
+    },
+    {
+        "id": "1802",
+        "nombre": "General Sánchez Cerro ",
+        "id_departamento": "18"
+    },
+    {
+        "id": "1803",
+        "nombre": "Ilo ",
+        "id_departamento": "18"
+    },
+    {
+        "id": "1901",
+        "nombre": "Pasco ",
+        "id_departamento": "19"
+    },
+    {
+        "id": "1902",
+        "nombre": "Daniel Alcides Carrión ",
+        "id_departamento": "19"
+    },
+    {
+        "id": "1903",
+        "nombre": "Oxapampa ",
+        "id_departamento": "19"
+    },
+    {
+        "id": "2001",
+        "nombre": "Piura ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2002",
+        "nombre": "Ayabaca ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2003",
+        "nombre": "Huancabamba ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2004",
+        "nombre": "Morropón ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2005",
+        "nombre": "Paita ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2006",
+        "nombre": "Sullana ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2007",
+        "nombre": "Talara ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2008",
+        "nombre": "Sechura ",
+        "id_departamento": "20"
+    },
+    {
+        "id": "2101",
+        "nombre": "Puno ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2102",
+        "nombre": "Azángaro ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2103",
+        "nombre": "Carabaya ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2104",
+        "nombre": "Chucuito ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2105",
+        "nombre": "El Collao ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2106",
+        "nombre": "Huancané ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2107",
+        "nombre": "Lampa ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2108",
+        "nombre": "Melgar ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2109",
+        "nombre": "Moho ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2110",
+        "nombre": "San Antonio de Putina ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2111",
+        "nombre": "San Román ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2112",
+        "nombre": "Sandia ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2113",
+        "nombre": "Yunguyo ",
+        "id_departamento": "21"
+    },
+    {
+        "id": "2201",
+        "nombre": "Moyobamba ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2202",
+        "nombre": "Bellavista ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2203",
+        "nombre": "El Dorado ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2204",
+        "nombre": "Huallaga ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2205",
+        "nombre": "Lamas ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2206",
+        "nombre": "Mariscal Cáceres ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2207",
+        "nombre": "Picota ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2208",
+        "nombre": "Rioja ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2209",
+        "nombre": "San Martín ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2210",
+        "nombre": "Tocache ",
+        "id_departamento": "22"
+    },
+    {
+        "id": "2301",
+        "nombre": "Tacna ",
+        "id_departamento": "23"
+    },
+    {
+        "id": "2302",
+        "nombre": "Candarave ",
+        "id_departamento": "23"
+    },
+    {
+        "id": "2303",
+        "nombre": "Jorge Basadre ",
+        "id_departamento": "23"
+    },
+    {
+        "id": "2304",
+        "nombre": "Tarata ",
+        "id_departamento": "23"
+    },
+    {
+        "id": "2401",
+        "nombre": "Tumbes ",
+        "id_departamento": "24"
+    },
+    {
+        "id": "2402",
+        "nombre": "Contralmirante Villar ",
+        "id_departamento": "24"
+    },
+    {
+        "id": "2403",
+        "nombre": "Zarumilla ",
+        "id_departamento": "24"
+    },
+    {
+        "id": "2501",
+        "nombre": "Coronel Portillo ",
+        "id_departamento": "25"
+    },
+    {
+        "id": "2502",
+        "nombre": "Atalaya ",
+        "id_departamento": "25"
+    },
+    {
+        "id": "2503",
+        "nombre": "Padre Abad ",
+        "id_departamento": "25"
+    },
+    {
+        "id": "2504",
+        "nombre": "Purús",
+        "id_departamento": "25"
+    }
+]
